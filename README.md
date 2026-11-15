@@ -135,7 +135,7 @@ MySQL is used to manage:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/FlameDash25/EZTool.git
+git clone https://github.com/prxsanna/EZTool.git
 ```
 
 ### Move to XAMPP
@@ -212,10 +212,10 @@ This project helped in gaining practical experience with:
 
 ## 👨‍💻 Author
 
-**Omkar Manthena**
+**Prasanna Kadrekar**
 
-- GitHub: https://github.com/FlameDash25
-- LinkedIn: https://www.linkedin.com/in/omkar-manthena-356132289/
+- GitHub: https://github.com/prxsanna
+- Email: kadrekarprasannawork@gmail.com
 
 ---
 
